@@ -34,4 +34,4 @@ In Python, i created a program that takes user input and calculates the volume o
 >        cone()  d
 > main()
 
-[Home](https://github.com/EricMHanks/EricHanks-midterm/blob/main/README.md "HomePage") | [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "Biography") | [Grocery List](https://github.com/EricMHanks/myGroceryList/blob/main/README.md "List") | [HelloWorld](https://github.com/EricMHanks/hello-world/edit/main/README.md "GitHub HelloWorld")
+[Home](https://github.com/EricMHanks/EricHanks-midterm/blob/main/README.md "HomePage") | [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "Biography") | [Grocery List](https://github.com/EricMHanks/myGroceryList/blob/main/README.md "List") | [HelloWorld](https://github.com/EricMHanks/hello-world/blob/main/README.md "GitHub HelloWorld")
